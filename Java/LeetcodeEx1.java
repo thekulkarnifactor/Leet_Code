@@ -1,5 +1,3 @@
-import java.io.*;
- 
 class LeetcodeEx1 {
     public static int longestUniqueSubsttr(String str)
     {
